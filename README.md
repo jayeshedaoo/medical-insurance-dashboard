@@ -1,5 +1,15 @@
 # Medical Insurance Statistical Analysis Dashboard
 
+# Medical Insurance Statistical Analysis Dashboard
+
+## Live Dashboard
+
+[Open the Live Dashboard] https://medical-insurance-dashboard-t9hokjvdufuw2nqkzkxasv.streamlit.app/#filtered-dataset
+
+## Project Overview
+
+This project presents an interactive statistical analysis dashboard built using Python and Streamlit.
+
 ## Project Overview
 
 This project presents an interactive statistical analysis dashboard built using Python and Streamlit. The dashboard analyzes a medical insurance dataset and provides exploratory data analysis, hypothesis testing, and multiple linear regression modeling.

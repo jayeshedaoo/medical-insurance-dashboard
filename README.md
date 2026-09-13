@@ -1,7 +1,5 @@
 # Medical Insurance Statistical Analysis Dashboard
 
-# Medical Insurance Statistical Analysis Dashboard
-
 ## Live Dashboard
 
 [Open the Live Dashboard] https://medical-insurance-dashboard-t9hokjvdufuw2nqkzkxasv.streamlit.app/#filtered-dataset
